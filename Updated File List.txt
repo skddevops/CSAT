@@ -22,15 +22,10 @@ Updated File List
 -- EPSSqls.java
 -- DashBoardSqls.java
 
-
--- RfqController.java
-
 -- quotationConfirmSubmit.jsp
 -- sellerOrgDocs.jsp
 
-
 -- controllersv2.js
-
 
 ----------------------------------
 
